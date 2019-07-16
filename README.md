@@ -11,6 +11,12 @@
 	<a class="external" href="https://github.com/GaryFlynn/vrops-dashboards-epops-agent-version-7.0/raw/master/Manage_Dashboards.PNG" rel="noopener" target="_blank"><img alt="Dashboard List" src="https://github.com/GaryFlynn/vrops-dashboards-epops-agent-version-7.0/raw/master/Manage_Dashboards.PNG" style="max-width:100%;" /></a></li>
 </ol>
 
+<h2>Sample</h2>
+
+<p>An example of what the dashboard looks like is below.</p>
+
+<a class="external" href="https://github.com/GaryFlynn/vrops-dashboards-epops-agent-version-7.0/raw/master/Sample_Dashboard.png" rel="noopener" target="_blank"><img alt="Dashboard List" src="https://github.com/GaryFlynn/vrops-dashboards-epops-agent-version-7.0/raw/master/Sample_Dashboard.png" style="max-width:100%;" /></a>
+
 <h2>Support</h2>
 
 <p>This dashboard requires vRealize Operation 7.0 Advanced or Enterprise edition.</p>
